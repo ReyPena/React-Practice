@@ -1,2 +1,2 @@
 # React-Practice
-Learn react building multiple projects
+Learn react building multiple projects.
